@@ -2,6 +2,8 @@
 
 ## Список заданий
 
+[Ссылка на решения и паблик https://codepen.io/Yanchevskiy/]
+
 1. [Возможности JavaScript в браузере](./browser/)
 2. [Способы поиска нужного HTML-элемента](./html-element-collection/)
 3. [Объект события](./event-object/)
